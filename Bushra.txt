@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Assalamu-alaikum. It's me Abida Ahmed Bushra.
+=======
+Assalamu-alaikum sir.It's me Abida Ahmed Bushra.
+>>>>>>> Bushra
